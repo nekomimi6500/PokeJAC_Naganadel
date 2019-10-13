@@ -1,1 +1,7 @@
-PokeJAC_Naganadel
+# PokeJAC_Naganadel
+
+## れあどめ
+
+iPadとPC間での同期、イラストのバージョン管理を
+GitHubを使ってやってみるテストプロジェクトです
+イラスト完成後ブログにて使用感などレビュー予定。
